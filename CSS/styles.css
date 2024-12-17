@@ -1,0 +1,9 @@
+.navbar {
+  padding-top: var(--size-20);
+  display: flex;
+  
+}
+
+.project_logo {
+  width: 11rem;
+}
